@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544193366721.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1591135665",
+    "id" : "759A207B",
+    "lastKnownWriteTime" : 1544212754,
+    "last_content_update" : 1544212754726,
+    "path" : "~/Analytics/Clinisync HCC extraction/clinisync/clinisync_test1.R",
+    "project_path" : "clinisync_test1.R",
+    "properties" : {
+        "cursorPosition" : "50,0",
+        "scrollLine" : "22",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

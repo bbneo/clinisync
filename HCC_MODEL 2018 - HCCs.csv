@@ -1,0 +1,81 @@
+HCC,Description,Risk Score,2018 Risk Score
+1,HIV/AIDS,0.47,0.43
+2,"Septicemia, Sepsis, Systemic Inflammatory Response Syndrome/Shock",0.535,0.49
+6,Opportunistic Infections,0.44,0.40
+8,Metastatic Cancer and Acute Leukemia,2.484,2.25
+9,Lung and Other Severe Cancers,0.973,0.88
+10,Lymphoma and Other Cancers,0.672,0.61
+11,"Colorectal, Bladder, and Other Cancers",0.317,0.29
+12,"Breast, Prostate, and Other Cancers and Tumors",0.154,0.14
+17,Diabetes with Acute Complications,0.368,0.33
+18,Diabetes with Chronic Complications,0.368,0.33
+19,Diabetes without Complication,0.118,0.11
+21,Protein-Calorie Malnutrition,0.713,0.65
+22,Morbid Obesity,0.365,0.33
+23,Other Significant Endocrine and Metabolic Disorders,0.245,0.22
+27,End-Stage Liver Disease,0.923,0.84
+28,Cirrhosis of Liver,0.399,0.36
+29,Chronic Hepatitis,0.251,0.23
+33,Intestinal Obstruction/Perforation,0.31,0.28
+34,Chronic Pancreatitis,0.286,0.26
+35,Inflammatory Bowel Disease,0.302,0.27
+39,Bone/Joint/Muscle Infections/Necrosis,0.498,0.45
+40,Rheumatoid Arthritis and Inflammatory Connective Tissue Disease,0.374,0.34
+46,Severe Hematological Disorders,1.136,1.03
+47,Disorders of Immunity,0.521,0.47
+48,Coagulation Defects and Other Specified Hematological Disorders,0.252,0.23
+54,Drug/Alcohol Psychosis,0.42,0.38
+55,Drug/Alcohol Dependence,0.42,0.38
+57,Schizophrenia,0.49,0.44
+58,"Major Depressive, Bipolar, and Paranoid Disorders",0.33,0.30
+70,Quadriplegia,1.234,1.12
+71,Paraplegia,1.052,0.95
+72,Spinal Cord Disorders/Injuries,0.509,0.46
+73,Amyotrophic Lateral Sclerosis and Other Motor Neuron Disease,0.958,0.87
+74,Cerebral Palsy,0.045,0.04
+75,Myasthenia Gravis/Myoneural Disorders and Guillain-Barre Syndrome/Inflammatory and Toxic Neuropathy,0.408,0.37
+76,Muscular Dystrophy,0.565,0.51
+77,Multiple Sclerosis,0.556,0.50
+78,Parkinson's and Huntington's Diseases,0.691,0.63
+79,Seizure Disorders and Convulsions,0.284,0.26
+80,"Coma, Brain Compression/Anoxic Damage",0.57,0.52
+82,Respirator Dependence/Tracheostomy Status,1.52,1.38
+83,Respiratory Arrest,0.802,0.73
+84,Cardio-Respiratory Failure and Shock,0.329,0.30
+85,Congestive Heart Failure,0.368,0.33
+86,Acute Myocardial Infarction,0.275,0.25
+87,Unstable Angina and Other Acute Ischemic Heart Disease,0.258,0.23
+88,Angina Pectoris,0.141,0.13
+96,Specified Heart Arrhythmias,0.295,0.27
+99,Cerebral Hemorrhage,0.339,0.31
+100,Ischemic or Unspecified Stroke,0.317,0.29
+103,Hemiplegia/Hemiparesis,0.581,0.53
+104,"Monoplegia, Other Paralytic Syndromes",0.396,0.36
+106,Atherosclerosis of the Extremities with Ulceration or Gangrene,1.413,1.28
+107,Vascular Disease with Complications,0.41,0.37
+108,Vascular Disease,0.299,0.27
+110,Cystic Fibrosis,0.417,0.38
+111,Chronic Obstructive Pulmonary Disease,0.346,0.31
+112,Fibrosis of Lung and Other Chronic Lung Disorders,0.274,0.25
+114,Aspiration and Specified Bacterial Pneumonias,0.672,0.61
+115,"Pneumococcal Pneumonia, Empyema, Lung Abscess",0.2,0.18
+122,Proliferative Diabetic Retinopathy and Vitreous Hemorrhage,0.203,0.18
+124,Exudative Macular Degeneration,0.335,0.30
+134,Dialysis Status,0.476,0.43
+135,Acute Renal Failure,0.476,0.43
+136,Chronic Kidney Disease (Stage 5),0.224,0.20
+137,"Chronic Kidney Disease, Severe (Stage 4)",0.224,0.20
+138,"Chronic Kidney Disease, Moderate (Stage 3)",0.04,0.04
+157,"Pressure Ulcer of Skin with Necrosis Through to Muscle, Tendon, or Bone",2.488,2.26
+158,Pressure Ulcer of Skin with Full Thickness Skin Loss,1.338,1.21
+161,"Chronic Ulcer of Skin, Except Pressure",0.536,0.49
+162,Severe Skin Burn or Condition,0.411,0.37
+166,Severe Head Injury,0.57,0.52
+167,Major Head Injury,0.163,0.15
+169,Vertebral Fractures without Spinal Cord Injury,0.497,0.45
+170,Hip Fracture/Dislocation,0.446,0.40
+173,Traumatic Amputations and Complications,0.265,0.24
+176,Complications of Specified Implanted Device or Graft,0.566,0.51
+186,Major Organ Transplant or Replacement Status,0.891,0.81
+188,Artificial Openings for Feeding or Elimination,0.651,0.59
+189,"Amputation Status, Lower Limb/Amputation Complications",0.779,0.71
